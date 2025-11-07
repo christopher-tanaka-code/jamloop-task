@@ -20,7 +20,7 @@ npm install
 
 ### 2. Set Up Environment Variables
 
-Copy `.env.example` to `.env.local` and fill in your Supabase credentials:
+Copy `env.example` to `.env.local` and fill in your Supabase credentials:
 
 ```bash
 cp env.example .env.local
